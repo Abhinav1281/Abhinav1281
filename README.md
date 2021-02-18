@@ -21,7 +21,7 @@ Find me here :point_down:<br>
  <img height="70" src="https://github.com/Abhinav1281/Abhinav1281/blob/master/icons/c%2B%2B.png">&ensp;
  <img height="70" src="https://github.com/Abhinav1281/Abhinav1281/blob/master/icons/androiS.png">&ensp; 
  
-# Some small projects I tried making :pencil2:
+## Some small projects I tried making :pencil2:
 * <a href="https://github.com/Abhinav1281/Noted">Noted!</a> <br> App to view notes of various subjects of engineering
 * <a href="https://github.com/Abhinav1281/Timed">Timed</a> <br> App to view the amount of time left for the end of 
   * Year
