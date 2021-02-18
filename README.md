@@ -29,7 +29,7 @@ Find me here :point_down:<br>
   * Week
   * Day
   * Hour
-  * **AND YOUR LIFE** :trollface: (According to the life expectancy entered by the USER)
+  * ***AND YOUR LIFE*** :trollface: (According to the life expectancy entered by the USER)
 * <a href="https://github.com/Abhinav1281/DeciderApp">Decider</a> <br> App which helps the user decide between two entered choices selecting them randomly.
    
  
