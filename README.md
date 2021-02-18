@@ -21,3 +21,15 @@ Find me here :point_down:<br>
  <img height="70" src="https://github.com/Abhinav1281/Abhinav1281/blob/master/icons/c%2B%2B.png">&ensp;
  <img height="70" src="https://github.com/Abhinav1281/Abhinav1281/blob/master/icons/androiS.png">&ensp; 
  
+# Some small projects I tried making :pencil2:
+* <a href="https://github.com/Abhinav1281/Noted">Noted!</a> <br> App to view notes of various subjects of engineering
+* <a href="https://github.com/Abhinav1281/Timed">Timed</a> <br> App to view the amount of time left for the end of 
+  * Year
+  * Month
+  * Week
+  * Day
+  * Hour
+  * **AND YOUR LIFE** :trollface: (According to the life expectancy entered by the USER)
+* <a href="https://github.com/Abhinav1281/DeciderApp">Decider</a> <br> App which helps the user decide between two entered choices selecting them randomly.
+   
+ 
