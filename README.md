@@ -28,7 +28,7 @@ Trying to find my way through this :milky_way: of :zero:s and :one:s
 ----
 ## Some small projects I tried making :pencil2:
 * <a href="https://github.com/Abhinav1281/Noted">Noted!</a> <br> App to view notes of various subjects of engineering
-* <a href="https://github.com/Abhinav1281/Timed">Timed</a> <br> App to view the amount of time left for the end of 
+* <a href="https://github.com/Abhinav1281/Timer">Timer</a> <br> App to view the amount of time left for the end of 
   * Year
   * Month
   * Week
