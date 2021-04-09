@@ -14,7 +14,6 @@ Trying to find my way through this :milky_way: of :zero:s and :one:s
 <a href="https://www.instagram.com/the.joker_face/"><img height="30" src="https://github.com/Abhinav1281/Abhinav1281/blob/master/icons/insta.png"></a>
 <a href="mailto:abhisione2@gmail.com"><img height="30" src="https://github.com/Abhinav1281/Abhinav1281/blob/master/icons/Gmail_logo.png"></a>&ensp;
 
-
 ----
 
 
@@ -25,6 +24,7 @@ Trying to find my way through this :milky_way: of :zero:s and :one:s
   <a href="https://developer.android.com/docs"><img height="70" src="https://github.com/Abhinav1281/Abhinav1281/blob/master/icons/androiS.png"></a>&ensp;
  <a href="https://kotlinlang.org/docs/home.html"><img height="70" src="https://github.com/Abhinav1281/Abhinav1281/blob/master/icons/kotlin.png"></a>&ensp;
  
+### **Click them to know more about them** 🖇️
 
 
 
