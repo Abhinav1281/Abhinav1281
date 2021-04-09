@@ -22,7 +22,8 @@ Trying to find my way through this :milky_way: of :zero:s and :one:s
 # Trying and learning to work on :point_down:
  <img height="70" src="https://github.com/Abhinav1281/Abhinav1281/blob/master/icons/java.png">&ensp;
  <img height="70" src="https://github.com/Abhinav1281/Abhinav1281/blob/master/icons/c%2B%2B.png">&ensp;
- <img height="70" src="https://github.com/Abhinav1281/Abhinav1281/blob/master/icons/androiS.png">&ensp; 
+ <img height="70" src="https://github.com/Abhinav1281/Abhinav1281/blob/master/icons/androiS.png">&ensp;
+  <img height="70" src="https://github.com/Abhinav1281/Abhinav1281/blob/master/icons/kotlin.png">&ensp;
 
 
 ----
